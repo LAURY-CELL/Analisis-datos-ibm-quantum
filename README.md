@@ -16,7 +16,7 @@ Este proyecto realiza un análisis estadístico y de rendimiento sobre un conjun
 |  86   |   37,34  |
 |  98   |   39,43  |
 
-# Nota: Los cúbits 55 y 121 son los más críticos al tener tiempos de retencion extremadamente bajos
+# Nota: Los cúbits 55 y 121 son los más críticos al tener tiempos de retención extremadamente bajos #
 
 
 
