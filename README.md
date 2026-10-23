@@ -9,12 +9,13 @@ Este proyecto realiza un análisis estadístico y de rendimiento sobre un conjun
 
 ## Los 5 cúbits más ruidosos (menor T1):
 
-| Cúbit |  T1 (us) |
-|  55   |   2,06   |
-| 121   |   2,31   |
-| 100   |   30,71  |
-|  86   |   37,34  |
-|  98   |   39,43  |
+| Cúbit  | T1 (us) |
+| :---:  |  :---: |
+| 55 |  2,06   |
+| 121  |   2,31  |
+| 100  |   30,71  |
+|  86 |   37,34  |
+|  98 |   39,43  |
 
 # Nota: Los cúbits 55 y 121 son los más críticos al tener tiempos de retención extremadamente bajos #
 
